@@ -1,0 +1,14 @@
+{
+    "name": "akorchaginn/study-package",
+    "description": "Demo package for OTUS",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Korchagin",
+            "email": "akorchaginn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
