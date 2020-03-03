@@ -1,6 +1,6 @@
 <?php
 
-namespace StudyPackage;
+namespace Akorchaginn\StudyPackage;
 
 class SomeClass
 {
